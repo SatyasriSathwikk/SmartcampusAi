@@ -1,0 +1,37 @@
+{
+  "student": {
+    "id": "student_001",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@campus.edu",
+    "studentId": "SID-2024-001",
+    "major": "Computer Science",
+    "year": 3
+  },
+  "attendance": [
+    {
+      "courseId": "crs_001",
+      "courseName": "Data Structures",
+      "totalClasses": 20,
+      "attendedClasses": 18,
+      "percentage": 90
+    },
+    {
+      "courseId": "crs_002",
+      "courseName": "Web Development",
+      "totalClasses": 15,
+      "attendedClasses": 14,
+      "percentage": 93
+    }
+  ],
+  "complaints": [
+    {
+      "id": "cmp_001",
+      "title": "Library air conditioning not working",
+      "description": "The AC in the library is not functioning properly",
+      "building": "Building A",
+      "status": "open",
+      "createdAt": "2026-07-15",
+      "ticketId": "TKT-2026-001"
+    }
+  ]
+}

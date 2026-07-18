@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "Data Structures Lecture",
+      "description": "Introduction to advanced data structures",
+      "date": "2026-07-17",
+      "time": "10:00",
+      "location": "Room 101",
+      "instructor": "Dr. Sarah Chen",
+      "imageUrl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHx1bml2ZXJzaXR5JTIwY2FtcHVzJTIwZXZlbnQlMjBsZWN0dXJlfGVufDF8fHx8MTc4NDMxNTAyMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "evt_002",
+      "title": "Web Development Workshop",
+      "description": "Building responsive web applications",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "location": "Lab 205",
+      "instructor": "Prof. James Wilson",
+      "imageUrl": "https://images.unsplash.com/photo-1622604647545-0cada2f34470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwzfHx1bml2ZXJzaXR5JTIwY2FtcHVzJTIwZXZlbnQlMjBsZWN0dXJlfGVufDF8fHx8MTc4NDMxNTAyMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "courses": [
+    {
+      "id": "crs_001",
+      "name": "Data Structures",
+      "code": "CS201",
+      "instructor": "Dr. Sarah Chen",
+      "credits": 3
+    },
+    {
+      "id": "crs_002",
+      "name": "Web Development",
+      "code": "CS301",
+      "instructor": "Prof. James Wilson",
+      "credits": 4
+    }
+  ],
+  "books": [
+    {
+      "id": "bk_001",
+      "title": "Introduction to Algorithms",
+      "author": "Cormen, Leiserson, Rivest, Stein",
+      "isbn": "978-0262033848",
+      "available": true,
+      "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5JTIwYm9va3MlMjBzaGVsdmVzfGVufDF8fHx8MTc4NDMxNTAyMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "bk_002",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "978-0132350884",
+      "available": true,
+      "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwyfHxsaWJyYXJ5JTIwYm9va3MlMjBzaGVsdmVzfGVufDF8fHx8MTc4NDMxNTAyMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "faculty": [
+    {
+      "id": "fac_001",
+      "name": "Dr. Sarah Chen",
+      "department": "Computer Science",
+      "email": "sarah.chen@campus.edu",
+      "office": "Building A, Room 301",
+      "availability": ["2026-07-18T09:00", "2026-07-18T11:00", "2026-07-18T14:00"],
+      "imageUrl": "https://images.unsplash.com/photo-1664382953518-4a664ab8a8c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwzfHxwcm9mZXNzb3IlMjBmYWN1bHR5JTIwbWVtYmVyJTIwdGVhY2hpbmd8ZW58MXx8fHwxNzg0MzE1MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "fac_002",
+      "name": "Prof. James Wilson",
+      "department": "Computer Science",
+      "email": "james.wilson@campus.edu",
+      "office": "Building B, Room 205",
+      "availability": ["2026-07-18T10:00", "2026-07-18T13:00", "2026-07-18T15:00"],
+      "imageUrl": "https://images.unsplash.com/photo-1587691592099-24045742c181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwyfHxwcm9mZXNzb3IlMjBmYWN1bHR5JTIwbWVtYmVyJTIwdGVhY2hpbmd8ZW58MXx8fHwxNzg0MzE1MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "rm_001",
+      "name": "Room 101",
+      "building": "Building A",
+      "capacity": 30,
+      "available": true,
+      "availableOn": "2026-07-18",
+      "imageUrl": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwxfHx1bml2ZXJzaXR5JTIwY2xhc3Nyb29tJTIwZW1wdHklMjBkZXNrc3xlbnwxfHx8fDE3ODQzMTUwMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "rm_002",
+      "name": "Room 205",
+      "building": "Building B",
+      "capacity": 50,
+      "available": true,
+      "availableOn": "2026-07-18",
+      "imageUrl": "https://images.unsplash.com/photo-1757193714692-44cdf07a5377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTQ3NTl8MHwxfHNlYXJjaHwyfHx1bml2ZXJzaXR5JTIwY2xhc3Nyb29tJTIwZW1wdHklMjBkZXNrc3xlbnwxfHx8fDE3ODQzMTUwMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ]
+}
