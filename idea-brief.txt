@@ -1,0 +1,28 @@
+Build a production-ready React + Tailwind CSS web application called CampusAI.
+
+Use the uploaded reference images as the primary UI and UX reference. Match the layout, spacing, colors, typography, cards, gradients, navigation bar, and overall modern design as closely as possible.
+
+Do not redesign the interface. Recreate the uploaded design using reusable React components and Tailwind CSS.
+
+Requirements:
+- Fully responsive
+- React + Tailwind CSS
+- Component-based architecture
+- Clean folder structure
+- Modern animations
+- Rounded cards
+- Blue/Purple gradient theme
+- White background
+- Lucide React icons
+
+Pages:
+1. Login
+2. Dashboard
+3. AI Assistant Chat
+4. Attendance
+5. Library
+6. Faculty Availability
+7. Complaint Portal
+8. Classroom Finder
+
+The UI should closely match the uploaded reference images while using clean production-ready React code.
